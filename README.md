@@ -1,1 +1,1 @@
-python for gis and geospatial analysis
+python + geology
